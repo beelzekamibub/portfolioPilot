@@ -1,0 +1,21 @@
+.App {
+  /* display: flex; */
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center; 
+
+  
+  
+    /* background-image: url("Images/bg.gif");
+    /* display: flex; */
+    /* min-height: 100vh;
+    /* align-items: center; */
+    /* justify-content: center;  */
+    /* background-size: 100%; */
+/*    
+    background-repeat: repeat;
+    background-position-x: center;
+    background-clip: inherit;
+   max-height: max-content; */
+ 
+}

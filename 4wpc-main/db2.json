@@ -1,0 +1,16 @@
+{
+    "InvestmentClient1":[
+        {
+          "id": 1,
+          "InvestmentType":"Type1",
+          "MoneyInvested":"10000"
+        }
+      ],
+    "InvestmentClient2":[
+        {
+            "id": 2,
+            "InvestmentType":"Type1",
+          "MoneyInvested":"10000"
+        }
+    ]
+}
