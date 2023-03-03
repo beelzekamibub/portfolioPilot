@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dfJSLH5wneoC/NdU5XNwhlnWCteSdqGFZqY39reCBjzVM/Fgee2RiSZp7qT990Ku9EubbLuk+J3bhOhr9HvbrQ==",
+  "dgSpecHash": "f9F4xJxMVYC15ZnJij18Wumvvd8DBQogQeFKXmNiU5rOi3suUOilgJQ8m0UzfwrBduZ/v4NMsjRjACWJGl7iQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chaitanya.sharma2\\Desktop\\investment management platform\\AdvisorSolution\\Advisor.Infrastructure\\Advisor.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\chaitanya.sharma2\\Desktop\\Portfolio pilot\\AdvisorSolution\\Advisor.Infrastructure\\Advisor.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chaitanya.sharma2\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\chaitanya.sharma2\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

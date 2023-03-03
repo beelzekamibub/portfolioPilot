@@ -13,8 +13,8 @@ namespace Advisor.Core.Services
     {
         public Task SendEmailAsync(string email, string subject, string message)
         {
-            var mail= "chait8126@gmail.com";
-            var pw = "29!@#vansthaliA";
+            var mail= "";
+            var pw = "";
             var client = new SmtpClient("smtp.office365.com", 587)
             {
                 UseDefaultCredentials = false,

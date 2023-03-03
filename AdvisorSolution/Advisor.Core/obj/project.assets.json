@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chaitanya.sharma2\\Desktop\\investment management platform\\AdvisorSolution\\Advisor.Core\\Advisor.Core.csproj",
+      "projectUniqueName": "C:\\Users\\chaitanya.sharma2\\Desktop\\Portfolio pilot\\AdvisorSolution\\Advisor.Core\\Advisor.Core.csproj",
       "projectName": "Advisor.Core",
-      "projectPath": "C:\\Users\\chaitanya.sharma2\\Desktop\\investment management platform\\AdvisorSolution\\Advisor.Core\\Advisor.Core.csproj",
+      "projectPath": "C:\\Users\\chaitanya.sharma2\\Desktop\\Portfolio pilot\\AdvisorSolution\\Advisor.Core\\Advisor.Core.csproj",
       "packagesPath": "C:\\Users\\chaitanya.sharma2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chaitanya.sharma2\\Desktop\\investment management platform\\AdvisorSolution\\Advisor.Core\\obj\\",
+      "outputPath": "C:\\Users\\chaitanya.sharma2\\Desktop\\Portfolio pilot\\AdvisorSolution\\Advisor.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
